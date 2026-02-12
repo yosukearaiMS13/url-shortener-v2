@@ -1,0 +1,2 @@
+# URL Shortener Requirements
+# This project uses Python standard library only (no external dependencies)
